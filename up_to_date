@@ -1,7 +1,6 @@
-GIT COMMANDS USED 
+GIT COMANDS
  git add
-git commit 
-git push 
- git branch
+git commit
 git checkout
 git config
+git branch
